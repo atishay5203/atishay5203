@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">An Android Developer from India</h3>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=1000&lines=I'm+a+Student%2C+Android+App+Developer%2C+and+Competitive+Programmer+!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=%23H8E749&center=true&width=1000&lines=I'm+an+Android+App+Developer;I'm+a+Competitive+Programmer;I'm+a+Learning+Enthusiast;)](https://git.io/typing-svg)
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>
 
