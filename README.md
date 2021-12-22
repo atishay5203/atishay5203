@@ -1,8 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">An Android Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/atishay5203](https://github.com/atishay5203)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=1000&lines=I'm+a+Student%2C+Android+App+Developer%2C+and+Competitive+Programmer+!!)](https://git.io/typing-svg)
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
 
+- 👨‍💻 All of my projects are available at [Github](https://github.com/atishay5203)
+- 🏁🚩 My Resume and Certificates: [Google Drive Link](https://drive.google.com/drive/folders/1tGrgMq6pey6H9RRw_gc8IayeFCzFiM-x?usp=sharing)
 - 📫 How to reach me **atishay.jain5203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
